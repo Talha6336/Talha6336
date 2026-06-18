@@ -15,7 +15,7 @@ Currently focused on AI automation, agent development, API integrations, and Flu
 **Featured Projects**
 
 * Customer Support RAG Agent
-* Lead Qualification Agent
+* Lead Qualification Automation
 * AI Resume Analyzer
 * Multi-Agent Blog Writer
 * Hotel Booking App
