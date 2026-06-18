@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Muhammad Talha 👋
 
-<!--
-**Talha6336/Talha6336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Automation & Agent Developer • Flutter Developer
 
-Here are some ideas to get you started:
+Building AI agents, intelligent automations, and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack**
+
+* n8n • OpenAI • RAG • AI Agents
+* Python • Flutter • Firebase
+* REST APIs • Git • GitHub
+
+**Featured Projects**
+
+* Customer Support RAG Agent
+* Lead Qualification Agent
+* AI Resume Analyzer
+* Multi-Agent Blog Writer
+* Hotel Booking App
+
+**Connect**
+
+* GitHub: github.com/Talha6336
+* LinkedIn: linkedin.com/in/muhammad-talha-4a632728b
